@@ -1,0 +1,19 @@
+{
+  "name": "ghost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "ghost"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sansan99999/Ghost.git"
+  },
+  "author": "sansan99999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sansan99999/Ghost/issues"
+  },
+  "homepage": "https://github.com/Sansan99999/Ghost#readme"
+}
